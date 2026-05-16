@@ -1,3 +1,3 @@
-version=1.8.39
-built_at=2026-05-16T01:07:24.716Z
+version=1.8.40
+built_at=2026-05-16T02:15:21.078Z
 exes=AmonOT_test.exe
