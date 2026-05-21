@@ -2,3 +2,5 @@
 *.zip
 *.rar
 *.7z
+*.log
+sessions.json
