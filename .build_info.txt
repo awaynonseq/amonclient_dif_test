@@ -1,4 +1,4 @@
-version=1.9.5
-built_at=2026-05-24T19:37:44.482Z
+version=1.9.6
+built_at=2026-05-24T20:39:10.200Z
 exes=AmonOT_test.exe
 channel=test
