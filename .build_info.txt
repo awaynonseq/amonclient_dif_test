@@ -1,4 +1,4 @@
-version=1.18.0
-built_at=2026-08-31T20:29:28.195Z
+version=1.18.1
+built_at=2026-09-01T01:29:17.257Z
 exes=AmonOT_test.exe
 channel=test
